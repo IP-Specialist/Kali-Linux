@@ -33,3 +33,45 @@ This guide is ideal for ethical hackers, IT security professionals, cybersecurit
 •	Individuals keen to advance in cybersecurity through ethical hacking
 
 # The Kali Linux for Pentesters and Ethical Hackers guide is your essential resource for building a strong foundation in ethical hacking, mastering the Kali Linux toolkit, and confidently achieving certification success.
+
+
+
+# Book Details
+
+No. of Chapters: 24
+No. of Labs: 05
+
+# Table of Contents
+
+Course Introduction
+Chapter 01: Basics of Hacking
+Chapter 02: Cyber Attack
+Chapter 03: Linux for Hacking
+Chapter 04: Mastering the Terminal Window
+Chapter 05: Bash Scripting
+Chapter 06: Scanning and Managing Networks
+Chapter 07: File and Directories Permissions
+Chapter 08: Cybersecurity
+Chapter 09: Becoming Secure and Anonymous
+Chapter 10: Internet Information Gathering
+Chapter 11: Social Engineering Attacks
+Chapter 12: Advanced Enumeration Phase
+Chapter 13: Exploitation Phase
+Chapter 14: Web Application Vulnerabilities
+Chapter 15: Web Penetration Testing and Secure Software Development Lifecycle
+Chapter 16: Linux Privilege Escalation
+Chapter 17: Windows Privilege Escalation
+Chapter 18: Pivoting and Lateral Movement
+Chapter 19: Cryptography and Hash Cracking
+Chapter 20: Reporting
+Chapter 21: Assembly Language and Reverse Engineering
+Chapter 22: Buffer/Stack Overflow
+Chapter 23: Programming with Python
+Chapter 24: Pentest Automation with Python
+Answers
+Acronyms
+References
+About Our Products
+
+
+
